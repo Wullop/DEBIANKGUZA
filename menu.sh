@@ -1,0 +1,21 @@
+#!/bin/bash
+#Menu
+
+echo -e "{ menu }     : List of menu"
+echo -e "{ addkguza } adduser"
+echo -e "{ 2 } Test user"
+echo -e "{ 3 } Change username"
+echo -e "{ 4 } Set device&change password&change expiry date"
+echo -e "{ 5 } delete user" 
+echo -e "{ 6 } Auto delete user Expres"
+echo -e "{ 7 } View all users"
+echo -e "{ 8 } restart service dropbear,webmin "
+echo -e "      squid3, OpenVPN and SSH"
+echo -e "{ 9 } speedtest VPS"
+echo -e "{ 10 } View Online Users"
+echo -e "{ 11 } User login"
+echo -e "{ 12 } about this system"
+echo -e "{ 13 } about script auto install"
+echo -e "{ reboot } reboot VPS"
+echo -e "{ exit } close Putty/Connecbot/JuiceSSH"
+echo -e " "
