@@ -1,7 +1,7 @@
 
 echo <head>  <meta http-equiv="Content-Language" content="th"> 
 <meta http-equiv="content-Type" content="text/html; charset=window-874"> 
-<meta http-equiv="content-Type" content="text/html; charset=tis-620"> </head>
+<meta http-equiv="content-Type" content="text/html; charset=tis-620"> 
 <div id="intro">
 	<table border="2"  background="#A100FF">
     <center>
@@ -69,4 +69,4 @@ echo <head>  <meta http-equiv="Content-Language" content="th">
 <FONT COLOR="#0000FF" size="10">เรา</FONT>
 <FONT COLOR="#FF0099" size="10">!!!!@KGUZA!!!!</FONT>
 </marquee>
- </div>
+ </div></head>
