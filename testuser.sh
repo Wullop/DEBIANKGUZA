@@ -1,12 +1,12 @@
 #!/bin/bash
-#Script auto create trial neko SSH
+#Script auto create trial kguza SSH
 #this user expire in 1 day
 #Dev By kguza
 
 IP=`dig +short myip.opendns.com @resolver1.opendns.com`
 
 Login=kguza`</dev/urandom tr -dc X-Z0-9 | head -c4`
-Day="1"
+Day="30"
 Passwd=`</dev/urandom tr -dc a-f0-9 | head -c9`
 
 useradd -e `date -d "$Day days" +"%Y-%m-%d"` -s /bin/false -M $Login
